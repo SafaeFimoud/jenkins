@@ -1,4 +1,4 @@
-# jenkins 1.1.1
+# jenkins 1.1.2
 # Build instruction
 ```
 mvn3 clean package
