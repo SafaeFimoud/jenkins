@@ -1,4 +1,4 @@
-# jenkins test test
+# jenkins
 # Build instruction
 ```
 mvn3 clean package
